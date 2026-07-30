@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 09f5cb519aa33234bb2d659cbcc11e65_edcc5add8bdf11f1a642525400287e28
+    ReservedCode1: gwPPyByOAu7t/bGS+XFK+XxNJ+IgiSNwG+o7m8QmGXqJ+wkpYTflq4buXFS5JFkE0cFKLL8kPNzjCG2ETkiFM6dvyNfnDkTiKYyZ9KNiNyzSrANODz+YYp75d9xDnP8IdRlGMsHIkjcH68VhkXzy1zLqUFYmvCI83Lc1W+NaXOPDSFE6GpaaGBqBzCE=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 09f5cb519aa33234bb2d659cbcc11e65_edcc5add8bdf11f1a642525400287e28
+    ReservedCode2: gwPPyByOAu7t/bGS+XFK+XxNJ+IgiSNwG+o7m8QmGXqJ+wkpYTflq4buXFS5JFkE0cFKLL8kPNzjCG2ETkiFM6dvyNfnDkTiKYyZ9KNiNyzSrANODz+YYp75d9xDnP8IdRlGMsHIkjcH68VhkXzy1zLqUFYmvCI83Lc1W+NaXOPDSFE6GpaaGBqBzCE=
+---
+
 # 面相气色体系
 
 > 气色是相学中最动态、最反映当下状态的部分。「气」主内在根本，变化缓慢；「色」主外在表象，随时而变。
@@ -70,3 +81,4 @@
 - 不将短暂的气色变化断为长期命运
 - 涉及健康的气色描述用「建议关注」「可以留意」等委婉表述
 - 明确区分「气色」与「肤色」——气色是动态的光泽感，肤色是静态的底色
+*（内容由AI生成，仅供参考）*

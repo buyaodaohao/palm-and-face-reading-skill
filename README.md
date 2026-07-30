@@ -2,12 +2,14 @@
 AIGC:
     Label: "1"
     ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 09f5cb519aa33234bb2d659cbcc11e65_f206df748bdd11f197fe525400826444
-    ReservedCode1: T4aEIdJGOydw56pBwAfV3/WNu3dVKKncYl6Bwsci5iXGRrwLzMOrDd28pDEjNieShblkGIIM//8eeeMWZ+XharEFsfDLw6qTnG1vCYt5TveDaKlrvBLlyK3wSOjJ4KINJ7ryQg000r3+drcjzj60wileMLfCFZP70qnO8tufDzoa1gApng7bzEfw75Y=
+    ProduceID: 09f5cb519aa33234bb2d659cbcc11e65_ed0003e08bdf11f1a642525400287e28
+    ReservedCode1: qVi7t280AlAUIDdqinXBT5PNbVG1hNhxP9wW5MyF6VSQEv6t4AmzHqqmR+7pPKuVRfLP9XIa5PXnMrTTNvGr3glPEGH+kwlWN8ZVeua3U9NPaKLKwACKGaau+ikkQvFy6PTAjLnDoWY0pHLsZ5RpEKDl8ABnHUIyqysGX+CbIrIc2513llPeHh7b0AE=
     ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 09f5cb519aa33234bb2d659cbcc11e65_f206df748bdd11f197fe525400826444
-    ReservedCode2: T4aEIdJGOydw56pBwAfV3/WNu3dVKKncYl6Bwsci5iXGRrwLzMOrDd28pDEjNieShblkGIIM//8eeeMWZ+XharEFsfDLw6qTnG1vCYt5TveDaKlrvBLlyK3wSOjJ4KINJ7ryQg000r3+drcjzj60wileMLfCFZP70qnO8tufDzoa1gApng7bzEfw75Y=
+    PropagateID: 09f5cb519aa33234bb2d659cbcc11e65_ed0003e08bdf11f1a642525400287e28
+    ReservedCode2: qVi7t280AlAUIDdqinXBT5PNbVG1hNhxP9wW5MyF6VSQEv6t4AmzHqqmR+7pPKuVRfLP9XIa5PXnMrTTNvGr3glPEGH+kwlWN8ZVeua3U9NPaKLKwACKGaau+ikkQvFy6PTAjLnDoWY0pHLsZ5RpEKDl8ABnHUIyqysGX+CbIrIc2513llPeHh7b0AE=
 ---
+
+
 
 # palm-and-face-reading-skill
 
@@ -46,4 +48,5 @@ references/
 ## 相学理论来源
 
 基于《麻衣相法》《柳庄相法》《水镜神相》《神相全编》《相理衡真》等经典综合整理。
+*（内容由AI生成，仅供参考）*
 *（内容由AI生成，仅供参考）*
