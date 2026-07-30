@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 09f5cb519aa33234bb2d659cbcc11e65_f206df748bdd11f197fe525400826444
+    ReservedCode1: T4aEIdJGOydw56pBwAfV3/WNu3dVKKncYl6Bwsci5iXGRrwLzMOrDd28pDEjNieShblkGIIM//8eeeMWZ+XharEFsfDLw6qTnG1vCYt5TveDaKlrvBLlyK3wSOjJ4KINJ7ryQg000r3+drcjzj60wileMLfCFZP70qnO8tufDzoa1gApng7bzEfw75Y=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 09f5cb519aa33234bb2d659cbcc11e65_f206df748bdd11f197fe525400826444
+    ReservedCode2: T4aEIdJGOydw56pBwAfV3/WNu3dVKKncYl6Bwsci5iXGRrwLzMOrDd28pDEjNieShblkGIIM//8eeeMWZ+XharEFsfDLw6qTnG1vCYt5TveDaKlrvBLlyK3wSOjJ4KINJ7ryQg000r3+drcjzj60wileMLfCFZP70qnO8tufDzoa1gApng7bzEfw75Y=
+---
+
 # palm-and-face-reading-skill
 
 Marvis 赛博相师技能——基于中国传统相学的手相与面相分析助手。
@@ -35,3 +46,4 @@ references/
 ## 相学理论来源
 
 基于《麻衣相法》《柳庄相法》《水镜神相》《神相全编》《相理衡真》等经典综合整理。
+*（内容由AI生成，仅供参考）*
